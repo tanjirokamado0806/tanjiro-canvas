@@ -3,6 +3,10 @@
 ```bash
 $ npm install tanjiro-canvas
 ```
+[![NPM version][npm-version-image]][npm-url]
+[![NPM downloads][npm-downloads-image]][npm-downloads-url]
+[![MIT License][license-image]][license-url]
+[![FOSSA Status][fossa-badge-image]][fossa-badge-url]
 
 <p align="center">
     <a href="https://github.com/tanjirokamado0806">
@@ -32,4 +36,24 @@ const image = await new tanjiro.RankUp()
 
 ## Credits
 Remake by [Tanjiro Senpai](https://github.com/tanjirokamado0806)
-# tanjiro-canvas
+
+## License
+
+Tanjiro Canvas is freely distributable under the terms of the [MIT license][license-url].
+
+[![FOSSA Status][fossa-large-image]][fossa-large-url]
+
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+
+[npm-url]: https://npmjs.com/package/tanjiro-canvas
+[npm-version-image]: https://img.shields.io/npm/v/tanjiro-canvas.svg?style=flat
+
+[npm-downloads-image]: https://img.shields.io/npm/dm/tanjiro-canvas.svg?style=flat
+[npm-downloads-url]: https://npmcharts.com/compare/tanjiro-canvas?minimal=true
+
+[fossa-badge-image]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas.svg?type=shield
+[fossa-badge-url]: https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas?ref=badge_shield
+
+[fossa-large-image]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas.svg?type=large
+[fossa-large-url]: https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas?ref=badge_large
