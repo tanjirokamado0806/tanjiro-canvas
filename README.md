@@ -1,4 +1,6 @@
 ## Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas?ref=badge_shield)
+
 
 ```bash
 $ npm install tanjiro-canvas
@@ -33,3 +35,7 @@ const image = await new tanjiro.RankUp()
 ## Credits
 Remake by [Tanjiro Senpai](https://github.com/tanjirokamado0806)
 # tanjiro-canvas
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ftanjiro-canvas?ref=badge_large)
