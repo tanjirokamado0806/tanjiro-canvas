@@ -21,14 +21,14 @@ $ npm install tanjiro-canvas
 
 ```js
 const tanjiro = require("tanjiro-canvas");
-const  fs = require('fs');
+const  fs = require('fs-extra');
 
 const image = await new tanjiro.RankUp()
     .setAvatar("https://i.postimg.cc/HnkjqLqd/1.jpg")
     .toAttachment();
   
   data = image.toBuffer();
-  await fs.writeFileSync(__path +'/cache/rankup.png', data)
+  await fs.writeFileSync(__dirname +'/cache/rankup.png', data)
  
 ```
 ## Rank Up 
